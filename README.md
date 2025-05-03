@@ -1,4 +1,5 @@
-Blog API Microservices
+Blog API Microservices 
+
 Blog API Microservices is a blog management application using Spring Boot, Spring Security, and Microservices Architecture. The application includes the following services:
 
 API Gateway
