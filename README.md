@@ -7,7 +7,7 @@ Post Service
 
 The application uses Feign Client to communicate between microservices and Swagger UI to test the API via the API Gateway.
 
-Key Features
+📌 Key Features
 Spring Boot: Used for all microservices.
 Spring Security: Ensures security for the APIs.
 Microservices Architecture: For a distributed system with independent services.
@@ -18,7 +18,7 @@ Exception Handling: Centralized error handling through @ControllerAdvice.
 CRUD Operations: Microservices perform basic CRUD operations (Create, Read, Update, Delete) with the database.
 H2 Database: Used for data storage in the development environment.
 
-System Architecture
+🚀 System Architecture
 The system consists of 3 main parts:
 API Gateway: Acts as a single entry point and routes requests to the appropriate services.
 User Service: Manages user information, registration, login, and user authentication.
