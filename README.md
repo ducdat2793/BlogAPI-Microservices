@@ -64,5 +64,7 @@ Use Swagger UI to test the API at the following address:
 http://localhost:8080/webjars/swagger-ui/index.html
 
 ## ⚠️ Common Issues
+
 503 Service Unavailable: Check that the services are running. Make sure that the services (user-service, post-service, api-gateway) are correctly started and listening on the appropriate ports.
+
 403 Forbidden: Check that the JWT token is valid and is being sent properly in the Authorization header.
