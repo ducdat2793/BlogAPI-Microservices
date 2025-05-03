@@ -1,8 +1,12 @@
 # Blog API Microservices 
 Blog API Microservices is a blog management application using Spring Boot, Spring Security, and Microservices Architecture. The application includes the following services:
+
 API Gateway
+
 User Service
+
 Post Service
+
 The application uses Feign Client to communicate between microservices and Swagger UI to test the API via the API Gateway.
 
 ## 📌 Key Features
