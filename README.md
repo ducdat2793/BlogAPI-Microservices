@@ -15,6 +15,8 @@ Spring Boot: Used for all microservices.
 
 Spring Security: Ensures security for the APIs.
 
+JWT: Used to authentication
+
 Microservices Architecture: For a distributed system with independent services.
 
 API Gateway: A single entry point for external requests, helping with routing and security.
