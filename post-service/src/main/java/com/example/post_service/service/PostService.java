@@ -71,7 +71,6 @@ public class PostService {
 		} else {
 			throw new RuntimeException("Job not found with id " + id);
 		}
-
 	}
 
 }

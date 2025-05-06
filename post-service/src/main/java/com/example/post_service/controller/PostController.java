@@ -67,7 +67,7 @@ public class PostController {
 
 	@Operation(summary = "Delete post by id")
 	@DeleteMapping("/{id}")
-	public ResponseEntity<Void> deleteProduct(@PathVariable Long id) {
+	public ResponseEntity<Void> deletePost(@PathVariable Long id) {
 		postService.deletePost(id);
 		return ResponseEntity.noContent().build(); // 204 No Content
 	}
