@@ -5,7 +5,7 @@ API Gateway
 
 User Service
 
-Post Service.
+Post Service
 
 The application uses Feign Client to communicate between microservices and Swagger UI to test the API via the API Gateway.
 
